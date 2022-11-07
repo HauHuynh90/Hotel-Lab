@@ -10,11 +10,11 @@
 }
 
 body {
-  background: rgb(214, 28, 182);
+  background: rgb(28, 62, 214);
   background: radial-gradient(
     circle,
-    rgba(214, 28, 182, 1) 7%,
-    rgba(68, 22, 105, 1) 100%
+    rgb(28, 214, 152) 7%,
+    rgb(28, 22, 105) 100%
   );
   margin: 2rem 0.5rem 0 0.5rem;
 }
